@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "foam.foam-vscode",
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "takumii.markdowntable",
+        "skn0tt.markdown-link-expander",
+        "telesoho.vscode-markdown-paste-image",
+        "christian-kohler.path-intellisense",
+        "shardulm94.trailing-spaces",
+        "oderwat.indent-rainbow",
+        "kisstkondoros.vscode-gutter-preview"
+    ]
+}
