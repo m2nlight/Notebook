@@ -5,7 +5,7 @@ foam_template:
 ---
 ---
 title: $FOAM_TITLE
-date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}
+date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} (${CURRENT_DAY_NAME_SHORT})
 tags: none
 ---
 
