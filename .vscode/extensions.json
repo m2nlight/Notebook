@@ -9,6 +9,8 @@
         "christian-kohler.path-intellisense",
         "shardulm94.trailing-spaces",
         "oderwat.indent-rainbow",
-        "kisstkondoros.vscode-gutter-preview"
+        "kisstkondoros.vscode-gutter-preview",
+        "gruntfuggly.todo-tree",
+        "streetsidesoftware.code-spell-checker"
     ]
 }
