@@ -14,5 +14,15 @@
     "MarkdownPaste.silence": true,
     "[markdown]": {
         "editor.tabSize": 2
+    },
+    "todo-tree.highlights.useColourScheme": true,
+    "todo-tree.regex.regexCaseSensitive": false,
+    "todo-tree.highlights.customHighlight": {
+        "[ ]": {
+            "background": "#ff000080"
+        },
+        "[x]": {
+            "background": "#00ff0080"
+        }
     }
 }
