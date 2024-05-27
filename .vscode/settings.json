@@ -4,6 +4,7 @@
     // "markdown-preview-enhanced.enableWikiLinkSyntax": false,
     // "markdown-preview-enhanced.puppeteerWaitForTimeout": 5000,
     // "markdown-preview-enhanced.chromePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "markdown-preview-enhanced.previewColorScheme": "editorColorScheme",
     "markdown-preview-enhanced.frontMatterRenderingOption": "table",
     // "markdown-preview-enhanced.imageFolderPath": "/assets",
     "markdown.copyFiles.destination": {
