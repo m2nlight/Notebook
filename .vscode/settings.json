@@ -14,7 +14,12 @@
     "MarkdownPaste.nameBase": "${fileBasenameNoExtension}_${datetime|yyyyMMDDHHmmss}",
     "MarkdownPaste.silence": true,
     "[markdown]": {
-        "editor.tabSize": 2
+        "editor.tabSize": 2,
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        }
     },
     "todo-tree.highlights.useColourScheme": true,
     "todo-tree.regex.regexCaseSensitive": false,
