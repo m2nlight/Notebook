@@ -2,13 +2,10 @@
     "recommendations": [
         "foam.foam-vscode",
         "yzhang.markdown-all-in-one",
-        "shd101wyy.markdown-preview-enhanced",
         "takumii.markdowntable",
-        "kukushi.pasteurl",
-        "telesoho.vscode-markdown-paste-image",
+        "therainisme.clear-markdown-unused-images",
         "christian-kohler.path-intellisense",
         "shardulm94.trailing-spaces",
-        "oderwat.indent-rainbow",
         "kisstkondoros.vscode-gutter-preview",
         "gruntfuggly.todo-tree",
         "streetsidesoftware.code-spell-checker"

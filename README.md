@@ -1,9 +1,16 @@
 # Notebook
 
+## NOTES
+
+| Date         | Title               |
+| ------------ | ------------------- |
+| `yyyy-MM-dd` | `[[First Journal]]` |
+
 ## JOURNAL
 
-`[[First Journal]]`
+### `Month`
 
-## DAILY
-
-`/today`
+|  Date  | Tags         | Other |
+| :----: | ------------ | ----- |
+| `/day` | `Tag1, Tag2` |       |
+|   ~    |              |       |
