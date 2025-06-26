@@ -5,7 +5,7 @@
         "**/*": "${documentWorkspaceFolder}/assets/${documentBaseName}.${fileName/(.*)\\.(.*)/$2/}"
     },
     "[markdown]": {
-        "editor.tabSize": 2,
+        "editor.tabSize": 4,
         "editor.quickSuggestions": {
             "comments": "on",
             "strings": "on",
