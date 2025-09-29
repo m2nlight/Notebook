@@ -1,7 +1,7 @@
 ---
 foam_template:
-  filepath: 'notes/$FOAM_TITLE.md'
-  description: New note in journal directory
+  description: New note in notes directory
+  filepath: '/notes/$FOAM_DATE_YEAR/$FOAM_DATE_MONTH/$FOAM_TITLE.md'
 ---
 ---
 title: $FOAM_TITLE

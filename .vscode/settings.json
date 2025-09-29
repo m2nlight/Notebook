@@ -1,8 +1,7 @@
 {
-    "foam.openDailyNote.directory": "journal",
     "foam.edit.linkReferenceDefinitions": "withExtensions",
     "markdown.copyFiles.destination": {
-        "**/*": "${documentWorkspaceFolder}/assets/${documentBaseName}.${fileName/(.*)\\.(.*)/$2/}"
+        "**/*": "${documentWorkspaceFolder}/assets/${documentBaseName}/${unixTime}.${fileExtName}"
     },
     "[markdown]": {
         "editor.tabSize": 4,
