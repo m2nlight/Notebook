@@ -4,7 +4,7 @@
         "**/*": "${documentWorkspaceFolder}/assets/${documentBaseName}/${unixTime}.${fileExtName}"
     },
     "[markdown]": {
-        "editor.tabSize": 4,
+        "editor.tabSize": 2,
         "editor.insertSpaces": true,
         "editor.detectIndentation": false,
         "editor.quickSuggestions": {
@@ -12,7 +12,9 @@
             "strings": "on",
             "other": "on"
         },
-        "editor.formatOnSaveMode": "file"
+        "editor.formatOnSave": true,
+        "editor.formatOnSaveMode": "file",
+        "files.insertFinalNewline": true
     },
     "editor.codeActionsOnSave": {
         "source.organizeLinkDefinitions": "never",

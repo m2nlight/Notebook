@@ -1,13 +1,19 @@
 {
     "recommendations": [
         "foam.foam-vscode",
-        "yzhang.markdown-all-in-one",
         "takumii.markdowntable",
-        "therainisme.clear-markdown-unused-images",
-        "christian-kohler.path-intellisense",
         "shardulm94.trailing-spaces",
-        "kisstkondoros.vscode-gutter-preview",
         "gruntfuggly.todo-tree",
-        "streetsidesoftware.code-spell-checker"
+        "therainisme.clear-markdown-unused-images",
+        "kukushi.pasteurl",
+        //"yzhang.markdown-all-in-one",
+        "bierner.markdown-footnotes",
+        "bierner.markdown-mermaid",
+        "bierner.markdown-emoji",
+        "bierner.emojisense",
+        //"yzane.markdown-pdf",
+        //"christian-kohler.path-intellisense",
+        //"kisstkondoros.vscode-gutter-preview",
+        //"streetsidesoftware.code-spell-checker"
     ]
 }

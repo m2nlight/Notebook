@@ -4,7 +4,7 @@
 
 | Date         | Title               |
 | ------------ | ------------------- |
-| `yyyy-MM-dd` | `[[First Journal]]` |
+| `yyyy-MM-dd` | `[[First note]]` |
 
 ## JOURNAL
 
