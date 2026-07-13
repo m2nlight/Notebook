@@ -19,14 +19,14 @@
     "editor.codeActionsOnSave": {
         "source.organizeLinkDefinitions": "never",
     },
-    "todo-tree.highlights.useColourScheme": true,
-    "todo-tree.regex.regexCaseSensitive": false,
-    "todo-tree.highlights.customHighlight": {
+    "better-todo-tree.highlights.customHighlight": {
         "[ ]": {
             "background": "#ff000080"
         },
         "[x]": {
             "background": "#00ff0080"
         }
-    }
+    },
+    "better-todo-tree.highlights.useColourScheme": true,
+    "better-todo-tree.regex.regexCaseSensitive": false
 }
