@@ -19,14 +19,19 @@
     "editor.codeActionsOnSave": {
         "source.organizeLinkDefinitions": "never",
     },
-    "better-todo-tree.highlights.customHighlight": {
-        "[ ]": {
-            "background": "#ff000080"
+    "todohighlight.isCaseSensitive": false,
+    "todohighlight.keywords": [
+        {
+            "text": "[ ]",
+            "borderRadius": "4px",
+            "backgroundColor": "#80000080",
+            "color": "#FF00FF80",
         },
-        "[x]": {
-            "background": "#00ff0080"
+        {
+            "text": "[x]",
+            "borderRadius": "4px",
+            "backgroundColor": "#00800080",
+            "color": "#00FFFF",
         }
-    },
-    "better-todo-tree.highlights.useColourScheme": true,
-    "better-todo-tree.regex.regexCaseSensitive": false
+    ],
 }
