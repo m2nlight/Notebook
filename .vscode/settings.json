@@ -14,10 +14,7 @@
         },
         "editor.formatOnSave": true,
         "editor.formatOnSaveMode": "file",
-        "files.insertFinalNewline": false
-    },
-    "editor.codeActionsOnSave": {
-        "source.organizeLinkDefinitions": "never",
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
     },
     "todohighlight.isCaseSensitive": false,
     "todohighlight.keywords": [
@@ -34,4 +31,7 @@
             "color": "#00FFFF",
         }
     ],
+    "editor.codeActionsOnSave": {
+        "source.organizeLinkDefinitions": "never",
+    }
 }

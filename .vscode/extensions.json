@@ -2,18 +2,19 @@
     "recommendations": [
         "foam.foam-vscode",
         "takumii.markdowntable",
-        "yzhang.markdown-all-in-one",
         "wayou.vscode-todo-highlight",
-        // "naumovs.color-highlight",
         "therainisme.clear-markdown-unused-images",
-        // "kukushi.pasteurl",
-        // "shardulm94.trailing-spaces",
-        // "bierner.markdown-mermaid",
-        // "bierner.markdown-emoji",
-        // "bierner.emojisense",
-        //"yzane.markdown-pdf",
-        //"christian-kohler.path-intellisense",
+        "kukushi.pasteurl",
+        "esbenp.prettier-vscode",
+        //"shardulm94.trailing-spaces",
+        //"naumovs.color-highlight",
+        //"yzhang.markdown-all-in-one",
+        //"bierner.markdown-mermaid",
+        //"bierner.markdown-emoji",
+        //"bierner.emojisense",
         //"kisstkondoros.vscode-gutter-preview",
+        //"christian-kohler.path-intellisense",
         //"streetsidesoftware.code-spell-checker"
+        //"yzane.markdown-pdf",
     ]
 }
