@@ -16,21 +16,20 @@
         "editor.formatOnSaveMode": "file",
         "editor.defaultFormatter": "esbenp.prettier-vscode",
     },
-    "todohighlight.isCaseSensitive": false,
-    "todohighlight.keywords": [
-        {
-            "text": "[ ]",
+    "better-todo-tree.highlights.customHighlight": {
+        "[ ]": {
             "borderRadius": "4px",
-            "backgroundColor": "#80000080",
-            "color": "#FF00FF80",
+            "background": "#80000080",
+            "foreground": "#FF00FF80"
         },
-        {
-            "text": "[x]",
+        "[x]": {
             "borderRadius": "4px",
-            "backgroundColor": "#00800080",
-            "color": "#00FFFF",
+            "background": "#00800080",
+            "foreground": "#00FFFF",
         }
-    ],
+    },
+    "better-todo-tree.highlights.useColourScheme": true,
+    "better-todo-tree.regex.regexCaseSensitive": false,
     "editor.codeActionsOnSave": {
         "source.organizeLinkDefinitions": "never",
     }

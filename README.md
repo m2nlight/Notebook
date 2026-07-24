@@ -2,8 +2,8 @@
 
 ## NOTES
 
-| Date         | Title               |
-| ------------ | ------------------- |
+| Date         | Title            |
+| ------------ | ---------------- |
 | `yyyy-MM-dd` | `[[First note]]` |
 
 ## JOURNAL
