@@ -3,6 +3,7 @@
     "markdown.copyFiles.destination": {
         "**/*": "${documentWorkspaceFolder}/assets/${documentBaseName}/${unixTime}.${fileExtName}"
     },
+    "markdown-preview-enhanced.enableWikiLinkSyntax": false,
     "[markdown]": {
         "editor.tabSize": 2,
         "editor.insertSpaces": true,
